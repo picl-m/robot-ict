@@ -10,3 +10,7 @@ table, td {
 table {
   border-collapse: collapse;
 }
+
+h1 {
+  color: #194C8F;
+}
