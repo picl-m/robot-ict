@@ -2,3 +2,11 @@ body {
   padding: 10px;
   font-family: sans-serif;
 }
+
+table, td {
+  border: 1px solid;
+}
+
+table {
+  border-collapse: collapse;
+}
